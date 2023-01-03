@@ -3,7 +3,8 @@ Hello everyone :D, this is my venge mod feel free to use it.
 
 Subscribe to my helper Northsxde's yt channel --> https://www.youtube.com/@NorthSxdeWTF
 
-How to install the mod
+
+HOW TO INSTALL THE MOD
 
 1-Make sure to have the official venge client, if not you can get it at this link --> https://social.venge.io/client
 
