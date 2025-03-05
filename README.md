@@ -1,8 +1,4 @@
 # Nio-mod-purple
-Hello everyone :D, this is my venge mod feel free to use it.
-
-Subscribe to my helper Northsxde's yt channel --> https://www.youtube.com/@NorthSxdeWTF
-
 
 HOW TO INSTALL THE MOD
 
